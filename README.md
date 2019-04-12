@@ -34,9 +34,12 @@ This graphic shows the percentage of male vs. female individuals who have claime
 
 <iframe title="Chart: Genders Experiencing Sexual Harassment" aria-describedby="This graphic shows the percentage of male vs. female individuals who have claimed to experience sexual harassment in different forms. This data shows what spurred the #metoo movement and what has kept it alive today." id="datawrapper-chart-Rt16L" src="//datawrapper.dwcdn.net/Rt16L/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="334"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
 
-## US Public and Private Institution Tuition Change 2015-2017
+
+
+### US Public and Private Institution Tuition Change 2015-2017
 These two graphics show the difference, often increase, in a college or university's tuition over two academic years. The data is represented in thousands of dollars and has been changed so all currency is in current US dollars. Each graphic shows the average of institution's tuiton per state as well as the national average.
 
 <iframe title="US Private Institution Tuition Change" aria-label="Column Chart" id="datawrapper-chart-NQISP" src="//datawrapper.dwcdn.net/NQISP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="559"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
+
 
 <iframe title="US Public In State College Tuition Increase 2015-2017" aria-label="Bullet Bars" id="datawrapper-chart-x72qa" src="//datawrapper.dwcdn.net/x72qa/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="1741"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>

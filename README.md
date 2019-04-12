@@ -36,7 +36,7 @@ This graphic shows the percentage of male vs. female individuals who have claime
 
 
 
-### US Public and Private Institution Tuition Change 2015-2017
+# US Public and Private Institution Tuition Change 2015-2017
 These two graphics show the difference, often increase, in a college or university's tuition over two academic years. The data is represented in thousands of dollars and has been changed so all currency is in current US dollars. Each graphic shows the average of institution's tuiton per state as well as the national average.
 
 <iframe title="US Private Institution Tuition Change" aria-label="Column Chart" id="datawrapper-chart-NQISP" src="//datawrapper.dwcdn.net/NQISP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="559"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
